@@ -1,3 +1,3 @@
-# modelo_web_noticia
+# tela login mega
 
-apenas uma pagina com design para expor informacao de noticia
+apenas uma pagina com design da tela de login do servidor mega
